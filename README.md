@@ -24,56 +24,56 @@ Built using **Python**, **Tkinter**, and packaged as a `.exe` for Windows.
 
 ## 🖼️ Working exe file
 
-<h3 align="center">🖼️ Saved Images</h3>
+<h3>1. Saved Images</h3>
 <p align="center">
   <img src="https://github.com/hsj71/LookAtPDF/raw/main/Images/Screenshot%20(591).png" alt="Saved Images" width="700"/>
 </p>
-<h3 align="center">🖼️ Open LookAtPDF.exe</h3>
+<h3>2. Open LookAtPDF.exe</h3>
 <p align="center">
   <img src="https://github.com/hsj71/LookAtPDF/raw/main/Images/Screenshot%20(596).png" alt="Open LookAtPDF.exe" width="700"/>
 </p>
 
-<h3 align="center">🖼️ Background Changing, Header Moving Feature</h3>
+<h3>3. Background Changing, Header Moving Feature</h3>
 <p align="center">
   <img src="https://github.com/hsj71/LookAtPDF/raw/main/Images/Screenshot%20(597).png" alt="Background Changing and Header Moving" width="700"/>
 </p>
 
-<h3 align="center">🖼️ Select Folder to Get All Images</h3>
+<h3>4. Select Folder to Get All Images</h3>
 <p align="center">
   <img src="https://github.com/hsj71/LookAtPDF/raw/main/Images/Screenshot%20(600).png" alt="Select Folder for Images" width="700"/>
 </p>
 
-<h3 align="center">🖼️ Generate PDF</h3>
+<h3>5. Generate PDF</h3>
 <p align="center">
   <img src="https://github.com/hsj71/LookAtPDF/raw/main/Images/Screenshot%20(602).png" alt="Generate PDF" width="700"/>
 </p>
 
-<h3 align="center">🖼️ View Generated PDF</h3>
+<h3>6. View Generated PDF</h3>
 <p align="center">
   <img src="https://github.com/hsj71/LookAtPDF/raw/main/Images/Screenshot%20(603).png" alt="View Generated PDF" width="700"/>
 </p>
 
-<h3 align="center">📚 Selecting PDF Files for Merging</h3>
+<h3>7. Selecting PDF Files for Merging</h3>
 <p align="center">
   <img src="https://github.com/hsj71/LookAtPDF/raw/main/Images/Screenshot%20(605).png" alt="Select PDFs for Merging" width="700"/>
 </p>
 
-<h3 align="center">📚 Merge PDF Files</h3>
+<h3>8. Merge PDF Files</h3>
 <p align="center">
   <img src="https://github.com/hsj71/LookAtPDF/raw/main/Images/Screenshot%20(607).png" alt="Merge PDFs" width="700"/>
 </p>
 
-<h3 align="center">📚 View Merged PDF Files</h3>
+<h3>9. View Merged PDF Files</h3>
 <p align="center">
   <img src="https://github.com/hsj71/LookAtPDF/raw/main/Images/Screenshot%20(608).png" alt="View Merged PDFs" width="700"/>
 </p>
 
-<h3 align="center">📚 Select PDF to Make Images</h3>
+<h3>10. Select PDF to Make Images</h3>
 <p align="center">
   <img src="https://github.com/hsj71/LookAtPDF/raw/main/Images/Screenshot%20(611).png" alt="PDF to Images" width="700"/>
 </p>
 
-<h3 align="center">📚 Show Images</h3>
+<h3>11. Show Images</h3>
 <p align="center">
   <img src="https://github.com/hsj71/LookAtPDF/raw/main/Images/Screenshot%20(614).png" alt="PDF to Images" width="700"/>
 </p>
