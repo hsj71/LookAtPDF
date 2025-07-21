@@ -304,6 +304,9 @@ Split or rearrange content by merging selected pages.
 
 Extract pages from a PDF as images for annotation or sharing.
 
-🙌 Credits
+---
+# Credits
 Created  by [Hrishikesh Jadhav]
 Feel free to fork, star, or contribute to improve the tool!
+
+---
